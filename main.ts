@@ -31,7 +31,7 @@ input.onButtonPressed(Button.B, function () {
 let number = 0
 basic.showIcon(IconNames.Heart)
 number = 0
-radio.setGroup(140)
+radio.setGroup(125)
 basic.forever(function () {
 	
 })
